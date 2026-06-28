@@ -1,1 +1,1 @@
-# prompt-injection-detector-
+# prompt-injection-detector
